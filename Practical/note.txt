@@ -1,0 +1,3 @@
+Operating Systems and Systems Programming
+This file is copied by file_copy.c using open, read and write.
+The copy is written to note1.txt.
